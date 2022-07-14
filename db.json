@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rocket",
+      "email": "rocket@guardiansofthegalaxy.com"
+    },
+    {
+      "id": 2,
+      "name": "Groot",
+      "email": "iam@groot.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World!",
+      "text": "Hello World",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "I am Groot",
+      "text": "I am Groot",
+      "userId": 1
+    }
+  ]
+}
